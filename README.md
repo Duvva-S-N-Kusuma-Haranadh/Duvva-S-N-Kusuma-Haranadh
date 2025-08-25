@@ -1,16 +1,15 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Duvva-S-N-Kusuma-Haranadh/Duvva-S-N-Kusuma-Haranadh/main/assets/banner.png" alt="Welcome Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Duvva S.N.Kusuma Haranadh</h1>
 <h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
-<img src="https://via.placeholder.com/150" alt="Profile Pic" width="150" height="150" style="border-radius:50%;"/>
+<img src="/banner.png" 
+     alt="Profile Pic" 
+     width="150" 
+     height="150" 
+     style="border-radius:50%; float:right; margin-left:10px;"/>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 ABOUT-ME
 
 - 💡 I’m a passionate **developer** who loves transforming ideas into **working solutions**.
 - 💻 Interested in **Full-Stack Development**, **AI/ML**, and **Cloud Technologies**.
@@ -19,22 +18,20 @@
 
 ---
 
-## 💼 Experience
+## 💼 INTERNSHIPS
 
-### 🚀 Internships / Projects
-
-- ## **AI Developer Intern** – _Swecha - Viswam.AI_ (May 2025 – July 2025)
+- ### **AI Developer Intern** – _Swecha - Viswam.AI_ (May 2025 – July 2025)
 
   - Developed a Language Translator that translates any langugae to telugu.
   - Gained Proficiency in Python and AI workflows
 
-- ## **IoT Developer Intern** - _Smart Home & Industrial Solutions_ (May 2024 - July 2024)
+- ### **IoT Developer Intern** - _Smart Home & Industrial Solutions_ (May 2024 - July 2024)
   - Developed an Environmental Monitoring System that monitors the environmental measures like oxygen, carbon-di-oxide, temperature, humidity.
   - Gained Experience in IoT systems, sensors etc.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ SKILLS
 
 **Languages**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -67,7 +64,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 PROJECTS
 
 - 🔗 [**ManaTranslator**](https://github.com/Duvva-S-N-Kusuma-Haranadh/ManaTranslator)  
   _Language translation app (Any → Telugu) with Streamlit UI_  
@@ -87,16 +84,16 @@
 
 ---
 
-## 🏆 Achievements
+## 🏆 AVHIEVEMENTS
 
-- 🥇 ![Cisco NetAcad](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) Completed **Python Essentials** (Cisco NetAcad)
-- 🏅 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) **Superbadges & Projects** (Data Modeling, Flow Automation, Apex)
-- 🏅 ![ServiceNow](https://img.shields.io/badge/ServiceNow-13A564?style=for-the-badge&logo=servicenow&logoColor=white) **Certified Service Administrator** Learning Path (Micro Certification).
+- 🥇 Completed **Python Essentials** (Cisco NetAcad)
+- 🏅 **Superbadges & Projects** (Data Modeling, Flow Automation, Apex)
+- 🏅 **Certified Service Administrator** Learning Path (Micro Certification).
 - 📜 Certifications in **AWS Certified Cloud Practitioner**, **freeCodeCamp's Responsive Web Design**
 
 ---
 
-## 🎖 Badges
+## 🎖 BADGES
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Duvva-S-N-Kusuma-Haranadh&label=Profile%20views&color=0e75b6&style=social" alt="profile views" />
@@ -108,14 +105,14 @@
 
 ---
 
-## 🌐 Portfolio
+## 🌐 PORTFOLIO
 
 [![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://duvva-s-n-kusuma-haranadh.github.io/Portfolio)  
 💼 Explore my **projects, blogs, and case studies** showcasing my journey as a developer.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Duvva-S-N-Kusuma-Haranadh&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -131,7 +128,7 @@
 
 ---
 
-## 📫 Contact & Social Links
+## 📫 CONTACT & SOCIAL LINKS
 
 <p align="center">
   <a href="https://github.com/Duvva-S-N-Kusuma-Haranadh">
