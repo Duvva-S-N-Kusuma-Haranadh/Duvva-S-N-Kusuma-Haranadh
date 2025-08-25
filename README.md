@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duvva S.N.Kusuma Haranadh</h1>
-<h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
 ---
 
@@ -67,7 +67,7 @@
   _MERN Stack Application to manage the students, buses, incharges_  
   **Tech Stack:** MongoDB, ExpressJS, ReactJS, NodeJS
 
-- 🔗 [**Environment Monitoring System**](https://github.com/Duvva-S-N-Kusuma-Haranadh/Environment-Monitoring-System)
+- 🔗 [**Environment Monitoring System**](https://github.com/Duvva-S-N-Kusuma-Haranadh/Environment-Monitoring-System)  
   _Blynk Application to monitor environment measures like oxygen, carbon-di-oxide, humidity, temperature_
   **Tech Stack:** Python, HTML, CSS, JavaScript, Blynk, Raspberry Pi Pico, DHT Sensor, MQT Sensor
 
@@ -94,7 +94,7 @@
   <img src="https://img.shields.io/github/stars/Duvva-S-N-Kusuma-Haranadh?affiliations=OWNER&style=social" alt="GitHub stars" />
 </p>
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/99573fa9-70de-49b1-b720-498fb6988ec1) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/s-n-kusuma-harandh-duvva/) [![SkillSoft](https://img.shields.io/badge/Skillsoft-Learning-E3004D?style=for-the-badge&logo=https://cdnlogo.com/logos/s/77/skillsoft.svg&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/profile/snkusumaharanadhduvva549054/wallet)
+[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/99573fa9-70de-49b1-b720-498fb6988ec1) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/s-n-kusuma-harandh-duvva/) [![SkillSoft](https://img.shields.io/badge/Skillsoft-E3004D?style=for-the-badge&logo=https://cdnlogo.com/logos/s/77/skillsoft.svg&logoColor=white)](https://skillsoft.digitalbadges.skillsoft.com/profile/snkusumaharanadhduvva549054/wallet)
 
 ---
 
