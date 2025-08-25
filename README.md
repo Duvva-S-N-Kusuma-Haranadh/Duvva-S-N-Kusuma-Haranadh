@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Duvva S.N.Kusuma Haranadh</h1>
 <h3 align="center">🚀 Passionate Developer | Problem Solver | Tech Enthusiast</h3>
 
-<img src="/banner.png" 
-     alt="Profile Pic" 
-     width="150" 
-     height="150" 
-     style="border-radius:50%; float:right; margin-left:10px;"/>
-
 ---
 
 ## 👨‍💻 ABOUT-ME
-
 - 💡 I’m a passionate **developer** who loves transforming ideas into **working solutions**.
 - 💻 Interested in **Full-Stack Development**, **AI/ML**, and **Cloud Technologies**.
 - 🎯 Strong believer in **continuous learning** and contributing to open-source communities.
