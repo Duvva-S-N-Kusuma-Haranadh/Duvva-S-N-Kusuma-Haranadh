@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 AVHIEVEMENTS
+## 🏆 ACHIEVEMENTS
 
 - 🥇 Completed **Python Essentials** (Cisco NetAcad)
 - 🏅 **Superbadges & Projects** (Data Modeling, Flow Automation, Apex)
